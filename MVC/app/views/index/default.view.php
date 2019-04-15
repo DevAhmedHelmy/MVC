@@ -1,0 +1,1 @@
+<h1>Welcome to index view</h1>
